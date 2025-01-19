@@ -14,9 +14,9 @@ a, b, c, d = 1, 2, 3, 4
 
 # Formatting
 temperature = 32.6
-print(f"The temperature today is: {temperature:.3f} degrees Celsius")
+print("The temperature today is: {temperature:.3f} degrees Celsius")
 
 # Common Functions
 userAge = int(input("Please enter your age: "))
 userAge = userAge + 22
-print(f"Now showing the shop items filtered by age: {userAge}")
+print("Now showing the shop items filtered by age: {userAge}")
